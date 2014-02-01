@@ -180,5 +180,10 @@ Neubot", In Proc. of the ACM Multimedia Systems Conference 2014, Singapore,
 March 19-21, 2014.
 
 
+License
+-------
 
+All data collected in the dataset is available to the public without restriction under a [No Rights Reserved Creative Commons Zero Waiver](http://creativecommons.org/about/cc0). 
 
+Neubot data are available under the Creative Commons Zero 1.0 Universal
+license (http://creativecommons.org/publicdomain/zero/1.0/)
